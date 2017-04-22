@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="bg_images">
+        <item>@mipmap/dining</item>
+        <item>@mipmap/company</item>
+        <item>@mipmap/hotel</item>
+        <item>@mipmap/lab</item>
+        <item>@mipmap/office</item>
+    </array>
+
+    <array name="pager_images">
+        <item>@mipmap/admin</item>
+        <item>@mipmap/tender</item>
+        <item>@mipmap/tax</item>
+        <item>@mipmap/payment</item>
+    </array>
+
+</resources>
